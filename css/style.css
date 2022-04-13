@@ -1,0 +1,40 @@
+body {
+    background-image: url(image/photo1.jpg);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.game-card {
+	height: 95vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-header {
+    background-color: rgb(231, 215, 185);
+    font-size: 20px;
+}
+
+.card-body {
+    background-color: rgb(207, 207, 207);
+}
+
+.card-footer{
+    background-color: rgb(231, 215, 185);
+}
+
+#btnRetry, #btnClear {
+    width: 140px;
+    height: 40px;
+    background-color: rgba(207, 207, 207);
+    border: rgba(255, 255, 255);
+    border-radius: 3%;
+    color: rgb(209, 141, 15);
+    font-size: 17px;
+    text-align: center;
+}
+
+.copyright {
+    width: 550px;
+    margin-right: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
